@@ -1,6 +1,6 @@
 # HOLA BIENVENIDO SOY BRAYAN SANCHEZ
 ![Banner](imagenes/banner.png)
-<img src="./imagenes/imagen_perfil.jpg" alt="mi foto" width="820" heigth="200">
+<img src="./imagenes/imagen_perfil.jpg" alt="mi foto" width="850" heigth="50">
 
 
 ### soy estudiante de ingenieria en sistemas y telecomunicaciones de la universidad de manizales voy en 5 semestre y he aprendido cosas relacionadas con frotend y backend, pero aun asi estoy en constante aprendisaje con nuevas tecnologias
